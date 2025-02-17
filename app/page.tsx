@@ -12,7 +12,7 @@ const HomePage = () => {
           <Link href="/About">About</Link>
         </li>
         <li>
-          <Link href="/about/team">Team</Link>
+          <Link href="/About/team">Team</Link>
         </li>
       </ul>
     </div>
